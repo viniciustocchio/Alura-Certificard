@@ -4,5 +4,5 @@
 
 Just a small project from Alura plataform on the "Imersão.dev" week.
 
-<img alt="Screenshot" src="../images/project-image.png">
+<img alt="Screenshot" src="./imagens/project-image.png">
 
